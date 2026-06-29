@@ -1,0 +1,20 @@
+# 인증·보안 파일
+.credentials.json
+policy-limits.json
+remote-settings.json
+mcp-needs-auth-cache.json
+
+# Claude Code 운영 임시 파일
+backups/
+sessions/
+telemetry/
+file-history/
+shell-snapshots/
+session-env/
+ide/
+plugins/
+downloads/
+.last-cleanup
+
+# 세션별 프로젝트 메모리 (컴퓨터마다 다름)
+projects/
